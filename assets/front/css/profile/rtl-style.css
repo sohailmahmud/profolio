@@ -1,0 +1,144 @@
+
+.vaughn-experience .box .title,
+.vaughn-blog .blog-item,
+.vaughn-contact .section-title,
+.vaughn-blog .section-title,
+.vaughn-testimonial .testimonial-item,
+.vaughn-testimonial .section-title,
+.vaughn-pricing .pricing-item .pricing-body,
+.vaughn-pricing .section-title,
+.vaughn-work .work-filter,
+.vaughn-work .section-title,
+.vaughn-achievements .box,
+.vaughn-achievements .section-title,
+.vaughn-experience .box,
+.vaughn-experience .section-title,
+.vaughn-features .section-title,
+.vaughn-skills .skills-content-box .single-bar .progress-title,
+.vaughn-skills .skills-content-box,
+.vaughn-skills .section-title,
+.vaughn-about .about-content-box,
+.vaughn-about .section-title{
+	text-align: right;
+}
+.vaughn-experience .box .title h4{
+	margin-left: 0px;
+	margin-right: 15px;
+}
+.vaughn-pricing .pricing-item .pricing-body ul.list li:before,
+.vaughn-aside .menu-wrapper,
+.nav-toggole,
+.vaughn-experience .box ul.list li i,
+.vaughn-experience .box .title .icon{
+	left: auto;
+	right: 0;
+}
+.vaughn-experience .box ul.list li{
+	padding-left: 0px;
+	padding-right: 45px;
+}
+.vaughn-pricing .pricing-item .pricing-body ul.list li{
+	padding-left: 0px;
+	padding-right: 25px;
+}
+.vaughn-testimonial .testimonial-item .testimonial-thumb-title .title{
+	margin-left: 0px;
+	margin-right: 20px;
+}
+.vaughn-blog .blog-item .entry-content .entry-meta ul li:after{
+	margin-left: 5px;
+    margin-right: 10px;
+}
+.vaughn-blog .blog-item .entry-content .entry-meta ul li span i{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+@media screen and (max-width: 1430px){
+	.nav-toggole.active{
+		left: auto;
+		right: 120px;
+	}
+	.vaughn-aside .menu-wrapper {
+	    -webkit-transform: translateX(100%);
+	    transform: translateX(100%);
+	}
+}
+@media (max-width: 767px){
+	.vaughn-experience .box ul.list li {
+	    padding-left: 0px;
+	    padding-right: 25px;
+	}
+}
+.breadcrumbs-area,
+.single-page-details,
+.single-page-wrapper{
+    text-align: right;
+}
+
+.breadcrumbs-area .breadcrumbs-wrapper .bredcumbs-link {
+    float: left;
+}
+.breadcrumbs-area .breadcrumbs-wrapper .bredcumbs-link ul li:after {
+    margin-left: 5px;
+    margin-right: 7px;
+}
+.single-page-details .single-page-wrapper .post-item .entry-content .entry-meta ul li:after {
+    margin-left: 8px;
+    margin-right: 10px;
+}
+.single-page-details .single-page-wrapper .post-item .entry-content .entry-meta ul li span i {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.single-page-details .single-page-wrapper .post-share ul.social-link li {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+.sidebar-widget-area .widget.search-widget .form_group .search_btn {
+    right: auto;
+    left: 20px;
+}
+.sidebar-widget-area .widget.recent-post-widget .recent-post-list .post-thumbnail-content img {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+.sidebar-widget-area .widget.categories-widget ul.widget-link li a span{
+    float: left;
+}
+.single-page-details .single-page-wrapper .post-share ul.social-link li a i {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+/* Responsive css*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.breadcrumbs-area .breadcrumbs-wrapper .bredcumbs-link {
+		float: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .breadcrumbs-area .breadcrumbs-wrapper .bredcumbs-link {
+		float: none;
+	}
+}
+#userLangForm {
+    right: auto;
+    left: 8px;
+}
+.sidebar-widget-area .widget h4.widget-title {
+    text-align: right;
+}
+.sidebar-widget-area .widget.categories-widget ul.widget-link li {
+    text-align: right;
+}
+.sidebar-widget-area .widget.recent-post-widget .recent-post-list .post-thumbnail-content .post-title-date .posted-on {
+    text-align: right;
+}
+.work-item h3 {
+    text-align: right;
+}
+.vaughn-contact .contact-wrapper form.contact-form .form-group p {
+	text-align: right;
+}

@@ -1,0 +1,171 @@
+
+
+
+
+.saas_checkout,
+.user-form-section .user-form,
+.contacts-section .contact-form,
+.contacts-section .contact-information .info-box ul.info-box-list li,
+.contacts-section  .contact-information,
+.faq-sidebar,
+.faqs-section .faq-wrapper,
+.saas-footer .footer-widget .widget ,
+.saas-blog .blog-item .entry-content,
+.saas-testimonial .section-title-one,
+.saas-pricing .pricing-item .pricing-body,
+.saas-featured-users .section-title-one,
+.saas-project .work-item .work-info,
+.saas-features .features-item,
+.saas-features .section-title-one,
+.saas-analysis  .choose-content-box,
+.saas-banner .hero-content,
+.header-navigation .nav-container .main-menu,
+.header-navigation .nav-container .brand_logo{
+	text-align: right;
+}
+.header-navigation .nav-container .main-menu ul > li.menu-item-has-children > a:after{
+	margin-left: 0px;
+	margin-right: 10px;
+}
+.header-navigation .nav-container .main-menu ul li .sub-menu{
+	left: auto;
+	right: 0;
+}
+.header-navigation .nav-container .nav-push-item{
+	text-align: left;
+}
+.header-navigation .nav-container .nav-push-item .navbar-btn .main-btn.active-btn{
+	margin-left: 0px;
+	margin-right: 16px;
+}
+.header-navigation .nav-container .nav-push-item .navbar-btn .main-btn.active-btn i{
+	margin-left: 0px;
+	margin-right: 25px;
+}
+.saas-banner .hero-content span.span:after{
+	margin-left: 0px;
+	margin-right: 20px;
+}
+.saas-banner .hero-content ul li:last-child{
+	margin-left: 0px;
+	margin-right: 13px;
+}
+.saas-analysis .choose-content-box ul.list li{
+	padding-left: 0px;
+	padding-right: 30px;
+}
+.saas-analysis .choose-content-box ul.list li:before{
+	left: auto;
+	right: 0;
+}
+.section-title-one span.span:before{
+	margin-right: 0px;
+	margin-left: 15px;
+}
+.section-title-one span.span:before{
+	margin-right: 0px;
+	margin-left: 15px;
+}
+.section-title-one span.span:after{
+	margin-right: 15px;
+	margin-left: 0px;
+}
+.saas-project .work-item .work-img a.count{
+	right: 0;
+	left: auto;
+}
+.saas-pricing .pricing-item .pricing-body ul.list li:before{
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.saas-blog .blog-item .entry-content{
+	padding-left: 0px;
+	padding-right: 30px;
+}
+.saas-blog .blog-item .entry-content .entry-meta ul li:after{
+	margin-left: 2px;
+	margin-right: 5px;
+}
+.saas-blog .blog-item .entry-content .entry-meta ul li span i{
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.saas-footer .footer-widget .widget.useful-link-widget{
+	margin-left: 0px;
+	margin-right: 100px;
+}
+.saas-footer .footer-widget .widget.newsletter-widget form .form_gorup .newsletter-btn{
+	right: auto;
+	left: 5px;
+}
+.saas-footer .footer-widget .widget.newsletter-widget .social-link li{
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
+.faqs-section .faq-wrapper .card .card-header .toggle_btn{
+	float: left;
+}
+.faqs-section .faq-sidebar .widget.contact-widget form .form_group i{
+	right: auto;
+	left: 20px;
+}
+.contacts-section .contact-information .info-box ul.info-box-list li .contact-info-title{
+	padding-left: 0px;
+	padding-right: 25px;
+}
+.contacts-section .contact-information .info-box ul.info-box-list li .contact-info-title i{
+	left: auto;
+	right: 0px;
+}
+.single_radio span, .single_checkbox span{
+	margin-left: 0px;
+	margin-right: 30px;
+}
+.single_input_label:after,
+.single_input_label:before{
+	left: auto;
+	right: 0;
+}
+.single_radio .single_input_label:after{
+	left: auto;
+	right: 3px;
+}
+.coupon_box .form_group .main-btn{
+	right: auto;
+	left: 0;
+}
+.nice-select{
+	text-align: right !important;
+}
+.nice-select .list li{
+	text-align: right;
+}
+.nice-select:after{
+	right: auto;
+	left: 20px;
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+	.saas-footer .footer-widget .widget.useful-link-widget {
+    	margin-right: 0px;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px){
+	.saas-footer .footer-widget .widget.useful-link-widget {
+	    margin-right: 0px;
+	}
+}
+@media (max-width: 767px){
+	.saas-banner .hero-content ul li:last-child {
+	    margin-right: 0px;
+	}
+	.saas-footer .footer-widget .widget.useful-link-widget {
+	    margin-right: 0px;
+	}
+}
+@media only screen and (max-width: 767px) and (min-width: 404px){
+	.saas-banner .hero-content ul li:last-child {
+	    margin-right: 10px;
+	}
+}

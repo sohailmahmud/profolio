@@ -1,0 +1,16 @@
+.login-page {
+    width: 600px;
+}
+.form {
+    max-width: 600px;
+}
+.form button {
+    width: 35%;
+    padding: 12px;
+}
+p.back-link {
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    margin-top: 12px;
+}

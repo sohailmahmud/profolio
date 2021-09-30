@@ -1,0 +1,135 @@
+/* side navbar css over write start */
+.sidebar.sidebar-style-2[data-background-color=dark2] .nav .nav-item.selected>a,
+.sidebar.sidebar-style-2[data-background-color=dark] .nav .nav-item.selected>a {
+  color: #fff;
+  font-weight: 700;
+}
+
+/* side navbar css over write end */
+
+/* bootstrap modal customize start */
+body[data-background-color="dark"] .modal-content {
+  background: #202940;
+}
+
+body[data-background-color="dark"] .modal-header {
+  border-bottom: 1px solid rgba(181, 181, 181, .1) !important;
+}
+
+body[data-background-color="dark"] .modal-content .close {
+  color: #fff;
+}
+
+body[data-background-color="dark"] .modal-content .close:not(:disabled):not(.disabled):focus,
+body[data-background-color="dark"] .modal-content .close:not(:disabled):not(.disabled):hover {
+  color: #fff;
+}
+
+body[data-background-color="dark"] .modal-footer {
+  border-top: 1px solid rgba(181, 181, 181, .1) !important;
+}
+
+body[data-background-color="dark"] ::-webkit-calendar-picker-indicator {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+  cursor: pointer;
+}
+
+/* bootstrap modal customize end */
+
+/* bootstrap form control customize start */
+body[data-background-color="dark"] .form-control[readonly] {
+  background-color: #1a2035 !important;
+  border-color: #2f374b !important;
+}
+
+body[data-background-color="dark"] .form-control[disabled] {
+  background-color: #1a2035 !important;
+  border-color: #2f374b !important;
+}
+
+/* bootstrap form control customize start */
+
+body[data-background-color="dark"] .note-editor.note-frame .note-btn.note-image-btn,
+body[data-background-color="dark"] .note-editor.note-frame .note-btn.note-video-btn,
+body[data-background-color="dark"] .note-editor.note-frame .note-btn.note-link-btn {
+  border: 1px solid #31ce36 !important;
+  background: #31ce36 !important;
+}
+
+body[data-background-color="dark"] label.note-form-label {
+color: #fff !important;
+}
+
+body[data-background-color="dark"] .note-modal label.form-check-label {
+color: #fff !important;
+}
+
+body[data-background-color="dark"] .note-modal h4.modal-title {
+color: #ffffff9a;
+}
+
+body[data-background-color="dark"] .custom-file-label::after {
+    color: #fff;
+    background-color: #1a2035;
+    border-left: 1px solid #2f374b;
+}
+
+body[data-background-color="dark"] label.custom-file-label {
+    background-color: #1a2035;
+    border: 1px solid #2f374b;
+}
+
+body[data-background-color="dark"] .version-header button:hover { 
+    color: #fff;
+}
+body[data-background-color="dark"] th,
+body[data-background-color="dark"] td {
+  color: #fff;
+}
+  
+/* popup type CSS */
+body[data-background-color="dark"] h5.popup-type-title {
+color: #fff;
+}
+
+/* mail template CSS */
+body[data-background-color="dark"] table.table.bbcodes-table thead th {
+color: #fff;
+}
+
+body[data-background-color="dark"] .btn-toggle {
+color: #fff !important;
+}
+
+body[data-background-color="dark"] .dropzone {
+  border: 2px dashed rgba(255, 255, 255, 0.13) !important;
+}
+body[data-background-color="dark"] .dropzone:hover {
+  background: #1a2035!important;
+  transition: all .5s !important;
+}
+
+body[data-background-color=dark] .select2-container--default .select2-selection--single {
+  background-color: #1a2035;
+  color: #fff;
+  border-color: #2f374b;
+}
+
+body[data-background-color=dark] .select2-container--default .select2-selection--single .select2-selection__rendered {
+  color: #fff;
+}
+
+body[data-background-color=dark] .divider {
+  border-top: 1px solid #ffffff1a;
+}
+
+body[data-background-color=dark] label.note-form-label {
+  color: #fff !important;
+}
+body[data-background-color=dark] .note-modal label.form-check-label {
+  color: #fff !important;
+}
+body[data-background-color=dark] .note-modal h4.modal-title {
+  color: #ffffff9a;
+}

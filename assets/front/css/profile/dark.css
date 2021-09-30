@@ -1,0 +1,75 @@
+body.dark-body{
+    background-color: #0F1343;
+    color: #fff;
+}
+.vaughn-blog .blog-item .entry-content .entry-meta ul li span,
+.vaughn-pricing .pricing-item .pricing-title span.price,
+.vaughn-work .work-filter .work-btn,
+h1, h2, h3, h4, h5, h6,
+p{
+    color: #fff;
+}
+.vaughn-blog .blog-item,
+.vaughn-aside .menu-wrapper{
+    background: #1F245B;
+}
+.hero-section .hero-wrapper .hero-content ul.social-link li a{
+    background: #1f245b;
+    color: #fff;
+}
+.vaughn-aside .menu-wrapper .primary-menu .main-menu li a {
+    color: #fff;
+}
+.section-title span.span {
+    color: #FFC13C;
+    background: rgba(255, 193, 60, 0.1);
+}
+.vaughn-testimonial .testimonial-item,
+.vaughn-experience .box,
+.vaughn-features .features-box,
+.vaughn-pricing .pricing-item{
+    border-color: #1f245b;
+}
+.vaughn-pricing .pricing-item .pricing-head i{
+    color: #1f245b;
+}
+.vaughn-contact .contact-wrapper form.contact-form textarea::placeholder,
+.vaughn-contact .contact-wrapper form.contact-form input::placeholder{
+    color: #fff;
+}
+.vaughn-contact .contact-wrapper form.contact-form textarea,
+.vaughn-contact .contact-wrapper form.contact-form input[type=text], 
+.vaughn-contact .contact-wrapper form.contact-form input[type=email], 
+.vaughn-contact .contact-wrapper form.contact-form input[type=url]{
+    background: #1F245B;
+    border-color: transparent;
+}
+.vaughn-footer {
+    background: #1F245B;
+}
+/* single page dark css */
+.breadcrumbs-area .breadcrumbs-wrapper {
+    background-color: #1f245b;
+}
+.sidebar-widget-area .widget {
+    background-color: #1f245b;
+}
+.sidebar-widget-area .widget h4.widget-title{
+    border-color:  #0f1343;
+}
+.single-page-details .single-page-wrapper .post-item .entry-content blockquote {
+    background-color: #1f245b;
+}
+.sidebar-widget-area .widget.search-widget .form_group .form_control {
+    border-color: #0f1343;
+    background: #0f1343;
+}
+.breadcrumbs-area .breadcrumbs-wrapper .bredcumbs-link ul li a {
+    color: #ffffff9a;
+}
+a {
+    color: #fff;
+}
+.single-page-details .single-page-wrapper .post-item .entry-content .entry-meta ul li span {
+    color: #ffffff9a;
+}
